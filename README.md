@@ -65,6 +65,7 @@ I built a custom **no-code/low-code pipeline** to bridge the gap:
 ## 📎 Dashboard Preview
 
 ![Dashboard Preview](amazon%20dsp%20and%20search%202.jpg)
+![Amazon Spend Breakdown](amazon%20spend%20breakdown.jpg)
 
 
 ---
