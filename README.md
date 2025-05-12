@@ -47,6 +47,17 @@ I built a custom **no-code/low-code pipeline** to bridge the gap:
 3. **Unified Reporting**
    - Developed a Looker dashboard using Looker Explores to break out DSP vs. Search spend and KPIs.
    - Enabled side-by-side channel performance views across campaigns, audiences, and targeting types.
+  
+## 🛠 Automation Script
+
+This [Google Apps Script](amazon-dsp-csv-ingestion.gs) automates ingestion of Amazon DSP reports by:
+- Scanning Gmail for daily report emails
+- Extracting and decoding CSV download links
+- Appending cleaned data into a Google Sheet
+- Triggering prior to Daasity’s Snowflake ingestion
+
+> The full script is available [here](amazon-dsp-csv-ingestion.gs).
+
 
 ---
 
