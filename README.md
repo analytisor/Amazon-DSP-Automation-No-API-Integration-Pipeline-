@@ -83,6 +83,19 @@ To support full historical reporting, Amazon DSP data was split across two large
 
 ![Dashboard Preview](amazon%20dsp%20and%20search%202.jpg)
 
+## 📊 Amazon Spend Share by Funnel Type
+
+By automating Amazon DSP data ingestion and enforcing standardized campaign naming conventions (e.g., tags for "Upper", "Mid", "Lower"), we enabled a clean, scalable method to categorize campaigns across both Amazon DSP and Amazon Search by **funnel stage**.
+
+This unified view of total Amazon advertising spend by funnel type allows marketing teams to:
+
+- Quickly assess how budgets are distributed across awareness, consideration, and conversion stages
+- Identify under- or over-invested funnel areas
+- Align spend allocation with strategic goals such as new customer acquisition or retargeting
+
+> 📈 Visualization below: *Total Amazon Ad Spend Share by Funnel Type (Upper, Mid, Lower)*
+
+![Amazon Spend by Funnel](amazon_spend_funnel_share.jpg)
 
 ---
 
