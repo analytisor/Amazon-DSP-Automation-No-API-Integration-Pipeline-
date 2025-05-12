@@ -58,6 +58,12 @@ This [Google Apps Script](amazon-dsp-csv-ingestion.gs) automates ingestion of Am
 
 > The full script is available [here](amazon-dsp-csv-ingestion.gs).
 
+## 🧩 Looker View: Historical DSP Data Union
+
+To support full historical reporting, Amazon DSP data was split across two large GSheets due to row count limits. I created a Looker view that unions both datasets into a single reporting view, powering the full DSP dashboard from Jan 2023 to today.
+
+> View the Looker view source file: [`view_amazon_dsp_combined_gsheet.view.lkml`](view_amazon_dsp_combined_gsheet.view.lkml)
+
 
 ---
 
