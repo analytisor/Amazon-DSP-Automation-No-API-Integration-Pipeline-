@@ -62,6 +62,9 @@ I built a custom **no-code/low-code pipeline** to bridge the gap:
 
 ## 📎 Visualization Preview
 
+## 📎 Dashboard Preview
+
+![Dashboard Preview](amazon%20dsp%20and%20search%202.jpg)
 
 
 ---
