@@ -78,9 +78,7 @@ I built a custom **no-code/low-code pipeline** to bridge the gap:
 
 ---
 
-## 🗃 Sample Data Model (Simplified)
-
-## 🗃 Sample Data Model (Updated)
+## 🗃 Sample Data Model 
 
 | Date       | Channel | Sub Channel | Funnel Type | Spend | Impressions | CTR   | ROAS |
 |------------|---------|-------------|-------------|--------|-------------|-------|------|
